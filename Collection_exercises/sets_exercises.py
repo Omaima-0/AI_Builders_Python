@@ -24,7 +24,3 @@ print(my_set)  # remove and return an arbitrary element from the set
 
 my_set.clear()  # remove all elements from the set
 print(my_set)
-
-my_set1 = {1, 2, 3, 4, 5}
-del my_set1
-print(my_set1)  # delete the set my_set1
